@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyDB", "EasyDB\EasyDB.csproj", "{4ADB1650-0233-4834-B78B-87B916303615}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "library", "library", "{150AFD5D-8CBC-492C-B36B-FC6C89825191}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "examples", "examples", "{2E5A6BF4-8288-452F-98B1-CA4D9ACE4DE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleApp1", "ExampleApp1\ExampleApp1.csproj", "{E3BD072C-7E1F-4B3E-9C21-14802AFDDDAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ADB1650-0233-4834-B78B-87B916303615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ADB1650-0233-4834-B78B-87B916303615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ADB1650-0233-4834-B78B-87B916303615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ADB1650-0233-4834-B78B-87B916303615}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3BD072C-7E1F-4B3E-9C21-14802AFDDDAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3BD072C-7E1F-4B3E-9C21-14802AFDDDAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3BD072C-7E1F-4B3E-9C21-14802AFDDDAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3BD072C-7E1F-4B3E-9C21-14802AFDDDAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4ADB1650-0233-4834-B78B-87B916303615} = {150AFD5D-8CBC-492C-B36B-FC6C89825191}
+		{E3BD072C-7E1F-4B3E-9C21-14802AFDDDAE} = {2E5A6BF4-8288-452F-98B1-CA4D9ACE4DE1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C07BEB0E-777F-4239-9258-F16D338255D0}
+	EndGlobalSection
+EndGlobal
