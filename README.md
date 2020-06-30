@@ -1,2 +1,2 @@
-# C-
+# C# Sharp
 EasyDB C# Client
